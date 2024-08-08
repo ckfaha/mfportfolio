@@ -1,0 +1,81 @@
+*{
+    padding:0px;
+    margin:0px
+}
+body{
+    font-family: "Young Serif", serif;
+}
+.container{
+    padding:50px;
+}
+.section-one{
+
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.section-one__name{
+    font-size: 60px;
+}
+.section-one__role{
+
+    font-size: 30px;
+    margin-top: 10px;
+}
+.section-one__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration:none;
+    padding-bottom:5px ;
+    padding-top:5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 5px;
+
+}
+.section-two{
+    margin-top: 20px;
+}
+.section-two__describe{
+    margin-top: 10px;
+}
+.section-three{
+    background-color: #6462FD;
+    padding:20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+  
+    
+}
+.section-three__describe{
+    padding:10px;
+}
+li{
+    list-style: none;
+}
+.section-four{
+    background-color: rgb(255, 121, 3);
+    padding:20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    height:200px;
+    vertical-align: top;
+
+    
+    
+    
+
+}
+.section-four__describe{
+    padding:10px;
+}
+.section-five{
+    background-color: black;
+    color:white;
+    margin-top: 20px;
+    padding: 20px;
+}
